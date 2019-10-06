@@ -1,0 +1,23 @@
+- name: Leonard Cohen
+  location: Vancouver, BC
+  start_date: 2019-08-22
+  end_date: 2019-08-23
+  url: https://www.lcohen.com/
+
+- name: Michael Jackson
+  location: Dublin, Ireland
+  start_date: 2019-06-20
+  end_date: 2019-06-21
+  url: https://mjackson.org/
+
+- name: Kurt Cobain
+  location: Botega, Columbia
+  start_date: 2021-03-31
+  end_date: 2021-03-31
+  url: https://kcobain.io/
+
+- name: Otis Redding
+  location: Reykjavik, Iceland
+  start_date: 2026-10-03
+  end_date: 2026-10-03
+  url: https://oredding.com/
